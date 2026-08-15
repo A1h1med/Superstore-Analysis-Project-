@@ -14,6 +14,7 @@
 ## Dataset Overview
 
 The Superstore dataset contains information about sales, customers, products, and orders.
+
 <img width="1793" height="291" alt="image" src="https://github.com/user-attachments/assets/6742a4e5-d910-47e0-aa9a-539e1fc6fb73" />
 
 It includes key attributes such as:
