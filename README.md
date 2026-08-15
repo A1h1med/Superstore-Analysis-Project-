@@ -2,6 +2,9 @@
 
 ## Project Overview 
 - This project aims to clean and analyze the Superstore dataset and visualize key business insights using Python, Pandas, and Matplotlib.
+  
+<img width="1672" height="941" alt="Overview 1" src="https://github.com/user-attachments/assets/cfc216fb-098a-4d2b-89ed-b81f6e328bd7" />
+
 
 ## Tools & Technologies
 
@@ -47,3 +50,26 @@ The dataset was cleaned and prepared for analysis by performing the following st
 - Checking for outliers
 - Standardizing text values
 - Preparing the data for analysis and visualization
+
+## Exploratory Data Analysis (EDA)
+
+After cleaning the dataset, exploratory data analysis was performed to understand the main patterns and characteristics of the data.
+
+The analysis focused on:
+
+- Analyzing sales and profit performance
+- Examining product and category performance
+- Identifying top-performing products
+- Analyzing sales trends over time
+
+## Data Visualization
+
+Matplotlib was used to visualize the key patterns and trends identified during the exploratory data analysis.
+
+The visualizations include:
+
+- Sales over months for each year
+- Sales over years
+- Top 5 products by profit 
+- Profit by Category
+- Top 5 cities by number of orders 
