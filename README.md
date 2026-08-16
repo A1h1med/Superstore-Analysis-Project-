@@ -72,9 +72,11 @@ The visualizations include:
   
 - <img width="1023" height="662" alt="image" src="https://github.com/user-attachments/assets/d61029ab-3391-412c-90d0-729c8a27dd63" />
 
-  Q1) What is the sales trend across different months of the year? 🔎
+  Q1) Why the last quarter always have high sales? 🔎
   
-  Insights 📌:  Sales reach their lowest point in February, while November and December record the highest sales, indicating a strong seasonal peak toward the end of the year.
+  <img width="958" height="584" alt="image" src="https://github.com/user-attachments/assets/b6e77846-a193-4e72-b473-7587d900029b" />
+
+  Insights 📌:  It can depend on two factors: discounts and new product releases.
   ## ------------------------------------------------------------------------------------------
 - Sales over years
   
