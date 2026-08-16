@@ -74,7 +74,7 @@ The visualizations include:
   Q1) What is the sales trend across different months of the year? 🔎
   
   Insights 📌:  Sales reach their lowest point in February, while November and December record the highest sales, indicating a strong seasonal peak toward the end of the year.
-  ------------------------------------------------------------------------------------------
+  ## ------------------------------------------------------------------------------------------
 - Sales over years
   
   <img width="483" height="504" alt="image" src="https://github.com/user-attachments/assets/d4815382-c16f-496d-8165-8ce1958ce880" />
@@ -82,7 +82,7 @@ The visualizations include:
   َQ2) How have sales changed over the years? 🔎
   
   Insights 📌: Sales showed a steady upward trend over the years, peaking in 2019.
-  ------------------------------------------------------------------------------------------
+  ## ------------------------------------------------------------------------------------------
 - Top 5 products by profit
 
   <img width="1141" height="438" alt="image" src="https://github.com/user-attachments/assets/fd829230-8633-40ea-9b58-6034f4788f3d" />
@@ -90,7 +90,7 @@ The visualizations include:
   Q3) Which product generates the highest profit? 🔎
   
   Insights 📌: Canon Image Class 2200 generates the highest profit among all products 
-  ------------------------------------------------------------------------------------------
+  ## ------------------------------------------------------------------------------------------
 - Profit by Category
 
   <img width="510" height="503" alt="image" src="https://github.com/user-attachments/assets/88508342-171e-4885-91e3-372e665d94a5" />
@@ -98,7 +98,7 @@ The visualizations include:
   Q4) Which category is the most profitable? 🔎
   
   Insights 📌: Technology is our most profitable category
-  ------------------------------------------------------------------------------------------
+  ## ------------------------------------------------------------------------------------------
 - Top 5 cities by number of orders
   
   <img width="851" height="586" alt="image" src="https://github.com/user-attachments/assets/2de5e0ab-b1ed-4765-a507-af888bdae74a" />
