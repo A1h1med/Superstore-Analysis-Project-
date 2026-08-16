@@ -70,7 +70,8 @@ The visualizations include:
 
 - Sales over months for each year
   
-- <img width="1021" height="664" alt="image" src="https://github.com/user-attachments/assets/3ef6e77d-196b-4380-afc7-dabd9e0f1d9f" />
+- <img width="1023" height="662" alt="image" src="https://github.com/user-attachments/assets/d61029ab-3391-412c-90d0-729c8a27dd63" />
+
   Q1) What is the sales trend across different months of the year? 🔎
   
   Insights 📌:  Sales reach their lowest point in February, while November and December record the highest sales, indicating a strong seasonal peak toward the end of the year.
